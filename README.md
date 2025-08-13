@@ -1,66 +1,41 @@
-## Hi there 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://yourdomain.com/your-banner.png" alt="Rafael Sosa Ramírez - Data Scientist & Applied AI Specialist" width="100%" />
+  <img src="./assets/rafa-github-banner.png" alt="Rafael Sosa Ramírez — Data Scientist & Applied AI Specialist" width="100%" />
 </p>
 
-#  **Hi, I’m Rafael Sosa Ramírez**
-##  Data Scientist & Applied AI Specialist  
+# Hi, I’m Rafael Sosa Ramírez, PhD
+## Data Scientist & Applied AI Specialist | PhD in Social Sciences  
 *Predictive Analytics · NLP · Semantic Modelling · Automation · MLOps*
 
-I build **data science-driven AI solutions** that transform unstructured data into actionable insights. From topic modelling in social media to automated SEO audits, I deliver AI-powered tools that drive real-world impact.
+PhD in Social Sciences with applied expertise in **Data Science, NLP, and AI-powered solutions** for research and industry.  
+I build **data science–driven AI solutions** that turn messy, unstructured data into **actionable insights**—from topic modeling at social scale to automated analytics that save teams time and money.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sosa-ram%C3%ADrez-1a42745b/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:sosaramirezgs1b@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2818--0669-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2818-0669)
 
 ---
 
-##  Featured Research & Projects
-
-| Project | Description | Keywords |
-|--------|-------------|----------|
-| **[Cohousing & Coliving Trends on X (Twitter)](https://recyt.fecyt.es/index.php/pixel/article/view/107991)** | Extracted and modelled social trends on cohousing and coliving using NLP and topic modelling. | NLP · Topic Modelling · Python |
-| **IA & ML for Depression Analysis on Reddit**<br>(Hybrid Topic Modelling & Clustering) | Applied LDA + Word2Vec + KMeans to analyze sentiment and thematic clusters in 2.47M Reddit posts. | LDA · Semantic Clustering · NLP |
-| **Comparative Evaluation of Commercial Sentiment Analysis Systems** | Benchmarked leading sentiment analysis systems using real-world datasets, identifying strengths and limitations. | Sentiment Analysis · Benchmarking |
-| **Automated SEO Audit Workflow** | Built a workflow to automate website performance audits using data extraction, analytics, and report generation. | Automation · Data Extraction |
+## Featured Publications & Research
+- **Exploring social trends in cohousing and coliving on X (Twitter) using NLP and Text Analysis** — *Pixel-Bit, Revista de Medios y Educación*.  
+  Link: https://recyt.fecyt.es/index.php/pixel/article/view/107991
+- **Artificial Intelligence & Machine Learning for Depression Analysis on Reddit** — *Book chapter*.  
+  In *Formación y transferencias de conocimientos educativos*, Cap. 3, Dykinson.  
+  Link: https://www.dykinson.com/libros/formacion-y-transferencias-de-conocimientos-educativos/9791370064938/
 
 ---
 
-##  Tech Stack
-
-![Python](https://img.shields.io/badge/Python-Blue?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Green?logo=spaCy&logoColor=white)
-![ML](https://img.shields.io/badge/ML-Orange?logo=scikit-learn&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-DarkBlue?logo=azure&logoColor=white)
-![BI](https://img.shields.io/badge/BI-Teal?logo=powerbi&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-Purple?logo=zapier&logoColor=white)
-
-**Languages:** Python · SQL · JavaScript  
-**ML & AI:** Scikit-learn · XGBoost · Hugging Face · Transformers  
-**NLP:** NLTK · Gensim · Word2Vec · Topic Modelling  
-**BI & Data:** Pandas · NumPy · Power BI · Tableau  
-**MLOps & Automation:** Docker · Azure · CI/CD · APIs  
+## Selected Projects
+| Project | What I did | Keywords |
+|---|---|---|
+| **Cohousing & Coliving Trends on X (Twitter)** | End-to-end NLP pipeline: data collection, cleaning, **LDA topic modeling**, semantic enrichment, and insight reporting. | NLP · Topic Modeling · Python |
+| **Reddit Depression: Hybrid Topic Modeling & Clustering** | Scaled analysis of **2.47M posts** combining **LDA + Word2Vec + KMeans** to surface latent themes and semantic clusters. | LDA · Word2Vec · KMeans |
+| **Comparative Evaluation of Commercial Sentiment Systems** | Benchmarked leading APIs on multi-domain datasets; reported precision/recall trade-offs and failure modes. | Sentiment Analysis · Benchmarking |
+| **Automated SEO Audit Workflow** | Built a data extraction + analytics pipeline that generates repeatable, auto-updated audit reports. | Automation · Data Engineering |
 
 ---
 
-##  GitHub Stats
-![Rafa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-##  Let's Connect!
-I’m open to **Data Science, NLP, and Applied AI collaborations** that make an impact.  
-**Let’s build AI-powered solutions together!**
-
-
-<!--
-**rafael-sosa-ramirez/rafael-sosa-ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+**Languages:** Python  
+**ML & AI:** Scikit-learn · XGBoost · Transformers (Hugging Face)  
+**NLP:** NLTK · spaCy
