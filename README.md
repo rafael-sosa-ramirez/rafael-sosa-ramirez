@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./assets/rafa-github-banner.png" alt="Rafael Sosa Ramírez — Data Scientist & Applied AI Specialist" width="100%" />
-</p>
 
 # Hi, I’m Rafael Sosa Ramírez, PhD
 ## Data Scientist & Applied AI Specialist | PhD in Social Sciences  
